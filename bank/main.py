@@ -2,7 +2,7 @@
 # 项目入口
 # helllo world
 # 项思琪是女海王
-# test1 
+# test1 awm
 # 123456
 from view import View
 from bank import Bank
