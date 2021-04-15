@@ -3,7 +3,7 @@
 # helllo world
 # 项思琪是女海王
 # test1 
-
+# 123456
 from view import View
 from bank import Bank
 
